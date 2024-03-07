@@ -49,7 +49,7 @@ export const navData = [
 export const logoData = [
     {
         img: github,
-        path: "/github",
+        path: "https://github.com/vohidovich5557",
     },
 
     {
@@ -59,7 +59,7 @@ export const logoData = [
 
     {
         img: linkin,
-        path: "/linkin",
+        path: "https://www.linkedin.com/in/shohjahon-uktamov-048981294/",
     }
 ];
 
