@@ -117,7 +117,7 @@ export const cardData = [
         id: 1,
         img: cardImg1,
         title: "GiperMart",
-        text: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
+        text: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy contentThis project is created with react js. In this project I use React Query, React Router and for sliders headless UI. In this e-commerce you can do search and also if you press title of the product it will direct you to the product detail. Inside the product detail we have Cart button this button works for adding this item to the cart.In this project we have also category button if you press this this will show you  category of brands. And inside this brand have many brand products.In the search you can search any product inside the project and if you press any product on the search it will also direct you to the product detail page.",
         stack: "HTML , JavaScript, SASS, React",
         link: "/",
         linktext: "Live Preview",
