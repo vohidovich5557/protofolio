@@ -10,7 +10,10 @@ import sass from '../assets/icons/sass.svg';
 import git from '../assets/icons/git.svg';
 import vscode from '../assets/icons/vscode.svg';
 import github2 from '../assets/icons/github2.svg';
-import cardImg from '../assets/cardImg.png';
+import cardImg from '../assets/cardImg.svg';
+import cardImg1 from '../assets/cardImg1.png';
+
+
 
 
 export const navData = [
@@ -112,7 +115,7 @@ export const cardData = [
     {
         aos: "fade-up-right",
         id: 1,
-        img: cardImg,
+        img: cardImg1,
         title: "GiperMart",
         text: "This is sample project description random things are here in description This is sample project lorem ipsum generator for dummy content",
         stack: "HTML , JavaScript, SASS, React",
